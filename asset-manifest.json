@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextAIproject/static/css/main.b1f078e1.css",
+    "main.js": "/TextAIproject/static/js/main.0860a3b9.js",
+    "static/js/453.77995bdc.chunk.js": "/TextAIproject/static/js/453.77995bdc.chunk.js",
+    "index.html": "/TextAIproject/index.html",
+    "main.b1f078e1.css.map": "/TextAIproject/static/css/main.b1f078e1.css.map",
+    "main.0860a3b9.js.map": "/TextAIproject/static/js/main.0860a3b9.js.map",
+    "453.77995bdc.chunk.js.map": "/TextAIproject/static/js/453.77995bdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1f078e1.css",
+    "static/js/main.0860a3b9.js"
+  ]
+}
